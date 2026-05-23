@@ -1,0 +1,4 @@
+~News Board~
+<color=white><size=6>hey guys, wsg! so im doing item testing and stuff so yea.  its looking pretty hard to build something out of blocks in the unity editor. i hate it lol, anyway, ima keep building everything and figure out how to make a big open world and stop griefing so ima have to make 'territories' you can build in
+<color=orange>[Having issues? Restart your game to get the latest news]
+
