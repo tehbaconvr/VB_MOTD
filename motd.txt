@@ -1,0 +1,2 @@
+~News Board~
+<color=white><size=6>yo wsg, this is a proof of concept that motd works.
