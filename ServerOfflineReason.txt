@@ -1,2 +1,2 @@
-<color=red>SERVERS OFFLINE:
-</color>Placeholder message here
+<color=orange>New Logins Unallowed
+</color>Voxelbound servers are closed for lockdown, debugging or testing. Current online players may either be kicked or are cooperating with admins.
