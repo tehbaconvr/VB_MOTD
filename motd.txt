@@ -1,3 +1,4 @@
 ~News Board~
-<color=white><size=6>hey guys, wsg! i could probs crash peoples games by injecting something into this lol but i wont. added skins, changed world, more trees, pickaxes test, more and more shit too. anyway, heres the entire lorem ipsum text:
+<color=white><size=6>hey guys, wsg! i could probs crash peoples games by injecting something into this lol but i wont. added skins, changed world, more trees, pickaxes test, more and more shit too.
+<color=red>Having issues? Restart your game to get latest news.
 
