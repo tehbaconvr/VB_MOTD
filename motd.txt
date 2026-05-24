@@ -7,5 +7,4 @@
 -Added github synced signs for updating info w/out reinstalling game
 -Added new vb logo
 -Added new building materials
-
-[Even more shit]
+[btw blocks only work in ur right hand]
