@@ -1,3 +1,2 @@
 <color=orange>New Logins Unallowed
 </color>Voxelbound servers are closed for lockdown, debugging or testing.
-Epicninja is so cool
