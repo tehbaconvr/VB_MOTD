@@ -1,6 +1,9 @@
 <size=10>~News Board~
-<color=white></size>Smaller Update, but its okay!
-- New tree above spawn
-- New 'Donation Chest'
-- Switched from PhotonNetwork.Instantiate to RPC's = Better for networking, basically infinite blocks now lol
-- Developing a bunch more <3
+<color=white></size>Haven't uploaded this in 2 weeks
+- PCVR Build, out now.
+- Mining blocks now works
+- Added more blocks
+- Fixing lag and optimizing
+- Looking to add music
+
+Working on other stuff 2
